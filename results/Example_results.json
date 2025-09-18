@@ -1,0 +1,35 @@
+{
+  "ticker": "BTC-USD",
+  "start": "2022-01-01",
+  "end": "2023-01-01",
+  "results": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.542,
+      "Precision": 0.4,
+      "Recall": 0.062,
+      "F1": 0.108
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.403,
+      "Precision": 0.4,
+      "Recall": 0.688,
+      "F1": 0.506
+    },
+    {
+      "Model": "Gradient Boosting",
+      "Accuracy": 0.417,
+      "Precision": 0.419,
+      "Recall": 0.812,
+      "F1": 0.553
+    },
+    {
+      "Model": "XGBoost",
+      "Accuracy": 0.444,
+      "Precision": 0.431,
+      "Recall": 0.781,
+      "F1": 0.556
+    }
+  ]
+}
