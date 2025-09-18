@@ -83,8 +83,8 @@ Then run the program:
     ├── data/                  # cached Yahoo Finance data (ignored in git)
     │   └── BTC-USD.csv
     ├── plots/                 # results and visuals
-    │   ├── BTC-USD_price_plot.png
-    │   ├── BTC-USD_model_results.md
+    │   ├── Example_price_plot.png
+    │   ├── Example_results.md
     │   └── Example_README_snippet.md
     ├── results/               # (optional) structured JSON logs
     │   └── Example_results.json
