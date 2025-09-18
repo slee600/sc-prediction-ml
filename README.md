@@ -84,7 +84,6 @@ Then run the program:
     │   └── BTC-USD.csv
     ├── plots/                 # results and visuals
     │   ├── Example_price_plot.png
-    │   ├── Example_results.md
     │   └── Example_README_snippet.md
     ├── results/               # (optional) structured JSON logs
     │   └── Example_results.json
